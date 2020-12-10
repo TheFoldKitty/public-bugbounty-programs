@@ -4494,6 +4494,23 @@
 			"domains": [
 				"grofers.com"
 			]
+		},
+						{
+			"name": "Blueboard",
+			"url": "https://hackerone.com/blueboard",
+			"bounty": true,
+			"domains": [
+				"blueboard.com"
+			]
+		},
+				{
+			"name": "Sixt GmbH & Co. Autovermietung KG BBP",
+			"url": "https://hackerone.com/sixt_bbp",
+			"bounty": true,
+			"domains": [
+				"sixt.com",
+				"sixt.de",
+			]
 		}
 	]
 }
